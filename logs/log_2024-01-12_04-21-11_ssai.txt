@@ -1,0 +1,36 @@
+Roberta
+|||||| 
+Method: Generate 
+Question: When The Knockout was released? 
+Answer: 1914 
+Exp_answer: 1914 
+Time: 397.72684264183044 
+Score: 0.817176878452301
+|||||| 
+Method: Generate 
+Question: Who was the director of Those Love Pangs? 
+Answer: Charlie Chaplin 
+Exp_answer: Charlie Chaplin 
+Time: 265.1239891052246 
+Score: 0.9763354063034058
+|||||| 
+Method: Generate 
+Question: Who casted in The Adventures of the American Rabbit? 
+Answer: Judy Garland, George Murphy 
+Exp_answer: Barry Gordon 
+Time: 264.6055443286896 
+Score: 0.06499214470386505
+|||||| 
+Method: Generate 
+Question: What genre is Manhattan Madness? 
+Answer: comedy 
+Exp_answer: comedy 
+Time: 259.3480315208435 
+Score: 0.6917179226875305
+|||||| 
+Method: Generate 
+Question: Who casted in Hulda from Holland? 
+Answer: Miranda Otto, William Fichtner 
+Exp_answer: Mary Pickford, Frank Losee 
+Time: 260.88547801971436 
+Score: 0.010762296617031097

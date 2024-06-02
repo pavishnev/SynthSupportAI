@@ -1,0 +1,35 @@
+|||||| 
+Method: Generate 
+Question: When The Knockout was released? 
+Answer: 1976 
+Exp_answer: 1914 
+Time: 347.24775743484497 
+Score: 0.737752377986908
+|||||| 
+Method: Generate 
+Question: Who was the director of Those Love Pangs? 
+Answer: Stuart Heisler 
+Exp_answer: Charlie Chaplin 
+Time: 339.97374081611633 
+Score: 0.9927130937576294
+|||||| 
+Method: Generate 
+Question: Who casted in The Adventures of the American Rabbit? 
+Answer: Mark Twain 
+Exp_answer: Barry Gordon 
+Time: 329.35385489463806 
+Score: 0.9529126286506653
+|||||| 
+Method: Generate 
+Question: What genre is Manhattan Madness? 
+Answer: sci-fi 
+Exp_answer: comedy 
+Time: 310.65457034111023 
+Score: 0.9713097810745239
+|||||| 
+Method: Generate 
+Question: Who casted in Hulda from Holland? 
+Answer: Edward Bernds 
+Exp_answer: Mary Pickford, Frank Losee 
+Time: 316.19650077819824 
+Score: 0.884460985660553

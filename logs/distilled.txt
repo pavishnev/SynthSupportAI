@@ -1,0 +1,14 @@
+Question: On the magic chessboard, what piece did Hermione play with? 
+Answer: slippers | Exp_answer: bishop | Time: 103.41173458099365 | Score: 0.9194767475128174
+---
+Question: What did first-year students have to do during the practical part of the Transfiguration exam? 
+Answer: talk to their families | Exp_answer: turn a mouse into a snuff box | Time: 105.31105661392212 | Score: 0.5961567759513855
+---
+Question: What was the first password to the Gryffindor common room? 
+Answer: Hermione | Exp_answer: Caput Draconis | Time: 97.77701950073242 | Score: 0.9273573160171509
+---
+Question: What breed of dragon was Norbert, Hagrid's little dragon? 
+Answer: grubby | Exp_answer: Norwegian Ridgeback | Time: 78.07528233528137 | Score: 0.9947711229324341
+---
+Question: Who gave Harry Potter the Nimbus 2000 broom?
+Answer: Hermione | Exp_answer: Minerva McGonagall | Time: 63.19137263298035 | Score: 0.9285672307014465

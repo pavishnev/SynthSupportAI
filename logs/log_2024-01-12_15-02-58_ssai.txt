@@ -1,0 +1,36 @@
+Distilled
+|||||| 
+Method: Generate 
+Question: When The Knockout was released? 
+Answer: Year of the Gun 
+Exp_answer: 1914 
+Time: 152.50413036346436 
+Score: 0.821322500705719
+|||||| 
+Method: Generate 
+Question: Who was the director of Those Love Pangs? 
+Answer: Danny Dyer 
+Exp_answer: Charlie Chaplin 
+Time: 148.56782960891724 
+Score: 0.9950078129768372
+|||||| 
+Method: Generate 
+Question: Who casted in The Adventures of the American Rabbit? 
+Answer: David Ayer 
+Exp_answer: Barry Gordon 
+Time: 150.491201877594 
+Score: 0.9756640791893005
+|||||| 
+Method: Generate 
+Question: What genre is Manhattan Madness? 
+Answer: science fiction 
+Exp_answer: comedy 
+Time: 149.6349995136261 
+Score: 0.9861193895339966
+|||||| 
+Method: Generate 
+Question: Who casted in Hulda from Holland? 
+Answer: Josh Hutcherson 
+Exp_answer: Mary Pickford, Frank Losee 
+Time: 149.40903425216675 
+Score: 0.9513667821884155

@@ -1,0 +1,35 @@
+|||||| 
+Method: Generate 
+Question: I need to open a Institutional account 
+Answer: Non-individual (Current account) AOD to be completed Registration proof with any state regulatory authority ORCertificate of Registration with the Local Charities Commissioner (for charitable trusts) Certified Copy of the Trust Deed / Bye-laws /MOA /Constitution Proof of address of the institute Certified Copy of the Resolution from Board of Trustees defining who is going to be the authorized signatories in the account / authorizing the opening & conduct of the account Proof of appointment of present Trustees/Governing Body members in case they are not listed in the Trust Deed/Bye-laws Pan Card/Form 60/No Pan declaration as may be applicable FCRA declaration Beneficial Ownership declaration (only for Trusts & Association of Persons) Photograph & proof of identity of all authorized signatories 
+Exp_answer: Non-individual (Current account) AOD to be completed Registration proof with any state regulatory... 
+Time: 18.40571093559265 
+Score: 0.7261383533477783
+|||||| 
+Method: Generate 
+Question: Tell me about Smartup Solutions 
+Answer: A SMART solution for your StartUp. SmartUp is here to assist you in achieving your startup goals with smart financial tools, smart advisory services and technology. 
+Exp_answer: A SMART solution for your StartUp. SmartUp is here to assist you in achieving your startup goals with smart financial tools, smart advisory services and technology. 
+Time: 10.589174270629883 
+Score: 0.9108677506446838
+|||||| 
+Method: Generate 
+Question: I need business benefits of Payzapp 
+Answer: Payzapp for business is arevolutionary invoicing solution by HDFC Bank which enables start-ups to request and receive payments on the go. Ideal for all start-ups who need to collect Payment on delivery / Advance payment / Balance payment / On-field collection. Benefits to Start-ups – - Instant flow of money to start-ups account - Convenient and Secure Money Transfer - No hassles of Cash Management 
+Exp_answer: Payzapp for business is arevolutionary invoicing solution by HDFC Bank which enables start-ups... 
+Time: 1.0677318572998047 
+Score: 0.8918212056159973
+|||||| 
+Method: Generate 
+Question: Issuing a certificate of TDS  
+Answer: The TDS Certificate, Form 16A, for TDS deducted during a calendar quarter, will be issued in the next month of the respective quarter. 
+Exp_answer: You will receive a consolidated TDS Certificate in Form 16A, for TDS deducted during a financial year... 
+Time: 1.0327465534210205 
+Score: 0.742057740688324
+|||||| 
+Method: Generate 
+Question: Can I open an RFC in euro currency? 
+Answer: An RFC Domestic Account can be opened in three different currencies, i.e. USD / Euro / GBP. 
+Exp_answer: An RFC Domestic Account can be opened in three different currencies, i.e. USD / Euro / GBP. 
+Time: 1.0242891311645508 
+Score: 0.7540425062179565
